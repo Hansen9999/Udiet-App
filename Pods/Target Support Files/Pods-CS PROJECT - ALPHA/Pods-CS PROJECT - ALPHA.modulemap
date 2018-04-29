@@ -1,0 +1,6 @@
+framework module Pods_CS_PROJECT___ALPHA {
+  umbrella header "Pods-CS PROJECT - ALPHA-umbrella.h"
+
+  export *
+  module * { export * }
+}
