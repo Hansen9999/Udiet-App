@@ -1,4 +1,4 @@
-# Udiet-App
+# Udiet - App Instruction
 
 # 覆盖你电脑上的更改，然后下载Github上面的所有东西
 git stash </br>
